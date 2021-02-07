@@ -1,6 +1,6 @@
 # Estudos - Sass
 
-## Apanhado de material para uso do estudo do Sassœ
+Apanhado de material para uso do estudo do Sassœ
 
 ### Instalando ambiente Sass
 
@@ -49,11 +49,8 @@ src/index.html" },
 
 8. Rodar o "dev" e depois "build" só quando for publicar.
 
-[``html
-npm run dev
-npm run build
-
+```html
+npm run dev npm run build
 ```
 
-👀  obs: criar o arquivo git igonore a pasta node_modules na pasta "src", na hora de publicar rodar o "npm run build" e upar a pasta "dist" - distribuição.
-```
+👀 _*obs:*_ _criar o arquivo git igonore a pasta node_modules na pasta "src", na hora de publicar rodar o "npm run build" e upar a pasta "dist" - distribuição._
